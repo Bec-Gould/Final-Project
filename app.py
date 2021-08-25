@@ -3,6 +3,7 @@ from flask import Flask, request, render_template, jsonify
 import pandas as pd
 import joblib
 
+
 # create instance of Flask app
 app = Flask(__name__)
 
