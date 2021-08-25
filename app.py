@@ -2,6 +2,9 @@
 from flask import Flask, request, render_template, jsonify
 import pandas as pd
 import joblib
+from sklearn import tree
+from sklearn import datasets
+from sklearn.tree import DecisionTreeClassifier, export_graphviz
 
 
 # create instance of Flask app
