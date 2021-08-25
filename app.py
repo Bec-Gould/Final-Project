@@ -48,12 +48,14 @@ def learn_more():
 
     offence_entries = Final_Model_Data["Offence"].unique()
     offence_dropdown =  getNiceArray(offence_entries)
+
+    print(offence_entries)
 #["0-19 years", "20-34 years"]
 #[{"id": 0, "text": "0-19 years"}]
     return render_template("learn_more.html", data = {"age":age_dropdown, "gender":gender_dropdown, "state":state_dropdown, "offence":offence_dropdown})
 
 # allow the use of POST request with methods=["POST"]
-@app.route("/api/predict", methods=["GET","POST"])
+@app.route("/api/predict", methods=["POST"])
 def predict():
     if request.method == "POST":  # if the request method is POST
         x_values = request.get_json()  # get the json data
@@ -76,6 +78,7 @@ def predict():
             gender_result = 1,0
         elif input_gender == "1":
             gender_result = 0,1
+        print(gender_result)
 
         input_state = x_values["state"]
         if input_state == "0":
