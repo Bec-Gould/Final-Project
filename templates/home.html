@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Victim of Crime</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+        <link href = "../static/css/style.css" rel = "stylesheet">
+    </head>
+   
+    <body>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="home">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="learn_more">Learn more</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="visualisation">Visualisation</a>
+            </li>
+          </ul>
+          <a class="navbar-brand" href="/">
+            <img src="../static/images/map_australia.jpg" width="40" height="40" class="d-inline-block align-top" alt="map of australia in gold">
+            <strong>Victim of Crime Analysis in Australia</strong> 
+          </a>
+        </div>
+      </nav>
+
+      <div class="jumbotron rounded-0">
+          <div class="container">
+            <div class="row">
+                <div class="col-dm-4">
+                  <img src="../static/images/coronavirus-tape-barrier-picture-id1213880557-2.jpg" class="img-thumbnail" alt="Coronavirus image" width="450" height="600">
+                  <div class="col-dm-8">
+                  <div>
+                    <h3 id="covid">
+                      Impact of COVID-19 on national recorded crime data
+                    </h3>
+                    <br>
+                    <p id="p1">
+                      From March 2020, Australia’s federal, state and territory governments introduced a variety of measures to slow the spread of Coronavirus (COVID-19). These measures had a subsequent impact on the level of crime recorded by state and territory police during the 2020 reference period.
+                    </p>
+                    <br>
+                    <p>
+                      Property crime decreased across all states and territories during 2020, with the largest falls observed nationally between the March and June quarters, when COVID-19 measures first came into effect.
+                    </p>
+                    <blockquote>
+                    <div class="container container-bg">
+                      <div class="col-dm-12">
+                        <br>
+                      <h3>Key statistics</h3>
+                      <br>
+                      <ul>
+                        <li>
+                          There was a 23% decrease in unlawful entry with intent and other theft, and a 17% drop in motor vehicle theft from 2019.
+                        </li>
+                        <li>
+                          Coinciding with COVID-19 restrictions, these offences declined to the lowest numbers in over twenty-five years.
+                        </li>
+                        <li>
+                          Family and domestic violence related sexual assault increased 13% from 2019.
+                        </li>
+                      </ul>
+                      <br>
+                    </div>
+                    </div>
+                    <br>
+                    <footer class="blockquote-footer">Source: <cite title="Source:">https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-victims/latest-release</cite></footer>
+                  </blockquote>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+
+          <script src="https://d3js.org/d3.v7.min.js"></script>
+          <script src="../static/js/predict.js"></script>
+    </body>
+</html>

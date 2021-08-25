@@ -1,0 +1,545 @@
+,Offence,State,Age,Gender,Likelihood Measure
+535,Assault,ACT,0-19 years,Female,0
+536,Assault,ACT,0-19 years,Female,0
+537,Assault,ACT,0-19 years,Female,0
+463,Assault,ACT,0-19 years,Male,0
+464,Assault,ACT,0-19 years,Male,0
+465,Assault,ACT,0-19 years,Male,0
+375,Assault,ACT,20–34 years,Female,0
+376,Assault,ACT,20–34 years,Female,1
+169,Assault,ACT,20–34 years,Male,0
+170,Assault,ACT,20–34 years,Male,1
+384,Assault,ACT,35–54 years,Female,0
+385,Assault,ACT,35–54 years,Female,0
+178,Assault,ACT,35–54 years,Male,0
+179,Assault,ACT,35–54 years,Male,0
+393,Assault,ACT,55 years and over,Female,0
+187,Assault,ACT,55 years and over,Male,0
+188,Assault,ACT,55 years and over,Male,0
+472,Assault,NSW,0-19 years,Female,0
+473,Assault,NSW,0-19 years,Female,0
+474,Assault,NSW,0-19 years,Female,0
+400,Assault,NSW,0-19 years,Male,0
+401,Assault,NSW,0-19 years,Male,0
+402,Assault,NSW,0-19 years,Male,0
+193,Assault,NSW,20–34 years,Female,1
+194,Assault,NSW,20–34 years,Female,1
+1,Assault,NSW,20–34 years,Male,0
+2,Assault,NSW,20–34 years,Male,1
+203,Assault,NSW,35–54 years,Female,0
+202,Assault,NSW,35–54 years,Female,1
+10,Assault,NSW,35–54 years,Male,1
+11,Assault,NSW,35–54 years,Male,1
+211,Assault,NSW,55 years and over,Female,0
+19,Assault,NSW,55 years and over,Male,0
+20,Assault,NSW,55 years and over,Male,0
+526,Assault,NT,0-19 years,Female,0
+527,Assault,NT,0-19 years,Female,1
+528,Assault,NT,0-19 years,Female,1
+454,Assault,NT,0-19 years,Male,0
+455,Assault,NT,0-19 years,Male,0
+456,Assault,NT,0-19 years,Male,1
+349,Assault,NT,20–34 years,Female,1
+350,Assault,NT,20–34 years,Female,1
+145,Assault,NT,20–34 years,Male,1
+146,Assault,NT,20–34 years,Male,1
+358,Assault,NT,35–54 years,Female,1
+359,Assault,NT,35–54 years,Female,1
+154,Assault,NT,35–54 years,Male,1
+155,Assault,NT,35–54 years,Male,1
+367,Assault,NT,55 years and over,Female,1
+164,Assault,NT,55 years and over,Male,0
+163,Assault,NT,55 years and over,Male,1
+490,Assault,QLD,0-19 years,Female,0
+491,Assault,QLD,0-19 years,Female,0
+492,Assault,QLD,0-19 years,Female,0
+418,Assault,QLD,0-19 years,Male,0
+419,Assault,QLD,0-19 years,Male,0
+420,Assault,QLD,0-19 years,Male,0
+245,Assault,QLD,20–34 years,Female,0
+246,Assault,QLD,20–34 years,Female,0
+49,Assault,QLD,20–34 years,Male,0
+50,Assault,QLD,20–34 years,Male,0
+254,Assault,QLD,35–54 years,Female,0
+255,Assault,QLD,35–54 years,Female,0
+58,Assault,QLD,35–54 years,Male,0
+59,Assault,QLD,35–54 years,Male,0
+263,Assault,QLD,55 years and over,Female,0
+67,Assault,QLD,55 years and over,Male,0
+68,Assault,QLD,55 years and over,Male,0
+499,Assault,SA,0-19 years,Female,0
+500,Assault,SA,0-19 years,Female,0
+501,Assault,SA,0-19 years,Female,0
+427,Assault,SA,0-19 years,Male,0
+428,Assault,SA,0-19 years,Male,0
+429,Assault,SA,0-19 years,Male,0
+271,Assault,SA,20–34 years,Female,1
+272,Assault,SA,20–34 years,Female,1
+73,Assault,SA,20–34 years,Male,1
+74,Assault,SA,20–34 years,Male,1
+280,Assault,SA,35–54 years,Female,1
+281,Assault,SA,35–54 years,Female,1
+82,Assault,SA,35–54 years,Male,1
+83,Assault,SA,35–54 years,Male,1
+289,Assault,SA,55 years and over,Female,0
+91,Assault,SA,55 years and over,Male,0
+92,Assault,SA,55 years and over,Male,0
+517,Assault,TAS,0-19 years,Female,0
+518,Assault,TAS,0-19 years,Female,0
+519,Assault,TAS,0-19 years,Female,0
+445,Assault,TAS,0-19 years,Male,0
+446,Assault,TAS,0-19 years,Male,0
+447,Assault,TAS,0-19 years,Male,0
+323,Assault,TAS,20–34 years,Female,1
+324,Assault,TAS,20–34 years,Female,1
+121,Assault,TAS,20–34 years,Male,0
+122,Assault,TAS,20–34 years,Male,1
+333,Assault,TAS,35–54 years,Female,0
+332,Assault,TAS,35–54 years,Female,1
+131,Assault,TAS,35–54 years,Male,0
+130,Assault,TAS,35–54 years,Male,1
+341,Assault,TAS,55 years and over,Female,0
+139,Assault,TAS,55 years and over,Male,0
+140,Assault,TAS,55 years and over,Male,0
+481,Assault,VIC,0-19 years,Female,0
+482,Assault,VIC,0-19 years,Female,0
+483,Assault,VIC,0-19 years,Female,0
+409,Assault,VIC,0-19 years,Male,0
+410,Assault,VIC,0-19 years,Male,0
+411,Assault,VIC,0-19 years,Male,0
+219,Assault,VIC,20–34 years,Female,0
+220,Assault,VIC,20–34 years,Female,0
+25,Assault,VIC,20–34 years,Male,0
+26,Assault,VIC,20–34 years,Male,0
+228,Assault,VIC,35–54 years,Female,0
+229,Assault,VIC,35–54 years,Female,0
+34,Assault,VIC,35–54 years,Male,0
+35,Assault,VIC,35–54 years,Male,0
+237,Assault,VIC,55 years and over,Female,0
+43,Assault,VIC,55 years and over,Male,0
+44,Assault,VIC,55 years and over,Male,0
+508,Assault,WA,0-19 years,Female,0
+509,Assault,WA,0-19 years,Female,0
+510,Assault,WA,0-19 years,Female,1
+436,Assault,WA,0-19 years,Male,0
+437,Assault,WA,0-19 years,Male,0
+438,Assault,WA,0-19 years,Male,0
+297,Assault,WA,20–34 years,Female,1
+298,Assault,WA,20–34 years,Female,1
+97,Assault,WA,20–34 years,Male,1
+98,Assault,WA,20–34 years,Male,1
+306,Assault,WA,35–54 years,Female,1
+307,Assault,WA,35–54 years,Female,1
+106,Assault,WA,35–54 years,Male,1
+107,Assault,WA,35–54 years,Male,1
+315,Assault,WA,55 years and over,Female,0
+115,Assault,WA,55 years and over,Male,0
+116,Assault,WA,55 years and over,Male,0
+382,Blackmail Extortion,ACT,20–34 years,Female,0
+176,Blackmail Extortion,ACT,20–34 years,Male,0
+391,Blackmail Extortion,ACT,35–54 years,Female,0
+185,Blackmail Extortion,ACT,35–54 years,Male,0
+399,Blackmail Extortion,ACT,55 years and over,Female,0
+191,Blackmail Extortion,ACT,55 years and over,Male,0
+200,Blackmail Extortion,NSW,20–34 years,Female,0
+8,Blackmail Extortion,NSW,20–34 years,Male,1
+209,Blackmail Extortion,NSW,35–54 years,Female,0
+17,Blackmail Extortion,NSW,35–54 years,Male,1
+217,Blackmail Extortion,NSW,55 years and over,Female,0
+23,Blackmail Extortion,NSW,55 years and over,Male,0
+356,Blackmail Extortion,NT,20–34 years,Female,0
+152,Blackmail Extortion,NT,20–34 years,Male,0
+365,Blackmail Extortion,NT,35–54 years,Female,0
+161,Blackmail Extortion,NT,35–54 years,Male,0
+373,Blackmail Extortion,NT,55 years and over,Female,0
+167,Blackmail Extortion,NT,55 years and over,Male,0
+252,Blackmail Extortion,QLD,20–34 years,Female,0
+56,Blackmail Extortion,QLD,20–34 years,Male,1
+261,Blackmail Extortion,QLD,35–54 years,Female,0
+65,Blackmail Extortion,QLD,35–54 years,Male,1
+269,Blackmail Extortion,QLD,55 years and over,Female,0
+71,Blackmail Extortion,QLD,55 years and over,Male,0
+278,Blackmail Extortion,SA,20–34 years,Female,1
+80,Blackmail Extortion,SA,20–34 years,Male,1
+287,Blackmail Extortion,SA,35–54 years,Female,1
+89,Blackmail Extortion,SA,35–54 years,Male,1
+295,Blackmail Extortion,SA,55 years and over,Female,1
+95,Blackmail Extortion,SA,55 years and over,Male,0
+330,Blackmail Extortion,TAS,20–34 years,Female,0
+128,Blackmail Extortion,TAS,20–34 years,Male,0
+339,Blackmail Extortion,TAS,35–54 years,Female,0
+137,Blackmail Extortion,TAS,35–54 years,Male,0
+347,Blackmail Extortion,TAS,55 years and over,Female,0
+143,Blackmail Extortion,TAS,55 years and over,Male,0
+226,Blackmail Extortion,VIC,20–34 years,Female,1
+32,Blackmail Extortion,VIC,20–34 years,Male,1
+235,Blackmail Extortion,VIC,35–54 years,Female,1
+41,Blackmail Extortion,VIC,35–54 years,Male,1
+243,Blackmail Extortion,VIC,55 years and over,Female,0
+47,Blackmail Extortion,VIC,55 years and over,Male,1
+304,Blackmail Extortion,WA,20–34 years,Female,1
+104,Blackmail Extortion,WA,20–34 years,Male,1
+313,Blackmail Extortion,WA,35–54 years,Female,0
+113,Blackmail Extortion,WA,35–54 years,Male,1
+321,Blackmail Extortion,WA,55 years and over,Female,0
+119,Blackmail Extortion,WA,55 years and over,Male,1
+374,Homicide and related offences,ACT,20–34 years,Female,0
+168,Homicide and related offences,ACT,20–34 years,Male,0
+383,Homicide and related offences,ACT,35–54 years,Female,0
+177,Homicide and related offences,ACT,35–54 years,Male,1
+392,Homicide and related offences,ACT,55 years and over,Female,0
+186,Homicide and related offences,ACT,55 years and over,Male,0
+192,Homicide and related offences,NSW,20–34 years,Female,0
+0,Homicide and related offences,NSW,20–34 years,Male,1
+201,Homicide and related offences,NSW,35–54 years,Female,0
+9,Homicide and related offences,NSW,35–54 years,Male,1
+210,Homicide and related offences,NSW,55 years and over,Female,0
+18,Homicide and related offences,NSW,55 years and over,Male,0
+348,Homicide and related offences,NT,20–34 years,Female,1
+144,Homicide and related offences,NT,20–34 years,Male,1
+357,Homicide and related offences,NT,35–54 years,Female,0
+153,Homicide and related offences,NT,35–54 years,Male,0
+366,Homicide and related offences,NT,55 years and over,Female,0
+162,Homicide and related offences,NT,55 years and over,Male,0
+244,Homicide and related offences,QLD,20–34 years,Female,0
+48,Homicide and related offences,QLD,20–34 years,Male,1
+253,Homicide and related offences,QLD,35–54 years,Female,0
+57,Homicide and related offences,QLD,35–54 years,Male,1
+262,Homicide and related offences,QLD,55 years and over,Female,0
+66,Homicide and related offences,QLD,55 years and over,Male,0
+270,Homicide and related offences,SA,20–34 years,Female,1
+72,Homicide and related offences,SA,20–34 years,Male,1
+279,Homicide and related offences,SA,35–54 years,Female,1
+81,Homicide and related offences,SA,35–54 years,Male,1
+288,Homicide and related offences,SA,55 years and over,Female,0
+90,Homicide and related offences,SA,55 years and over,Male,0
+322,Homicide and related offences,TAS,20–34 years,Female,0
+120,Homicide and related offences,TAS,20–34 years,Male,0
+331,Homicide and related offences,TAS,35–54 years,Female,0
+129,Homicide and related offences,TAS,35–54 years,Male,0
+340,Homicide and related offences,TAS,55 years and over,Female,0
+138,Homicide and related offences,TAS,55 years and over,Male,0
+218,Homicide and related offences,VIC,20–34 years,Female,0
+24,Homicide and related offences,VIC,20–34 years,Male,1
+227,Homicide and related offences,VIC,35–54 years,Female,0
+33,Homicide and related offences,VIC,35–54 years,Male,1
+236,Homicide and related offences,VIC,55 years and over,Female,0
+42,Homicide and related offences,VIC,55 years and over,Male,0
+296,Homicide and related offences,WA,20–34 years,Female,1
+96,Homicide and related offences,WA,20–34 years,Male,0
+305,Homicide and related offences,WA,35–54 years,Female,1
+105,Homicide and related offences,WA,35–54 years,Male,1
+314,Homicide and related offences,WA,55 years and over,Female,0
+114,Homicide and related offences,WA,55 years and over,Male,1
+379,Kidnapping/abduction(g) Data,ACT,20–34 years,Female,0
+173,Kidnapping/abduction(g) Data,ACT,20–34 years,Male,0
+388,Kidnapping/abduction(g) Data,ACT,35–54 years,Female,0
+182,Kidnapping/abduction(g) Data,ACT,35–54 years,Male,0
+396,Kidnapping/abduction(g) Data,ACT,55 years and over,Female,0
+197,Kidnapping/abduction(g) Data,NSW,20–34 years,Female,1
+5,Kidnapping/abduction(g) Data,NSW,20–34 years,Male,1
+206,Kidnapping/abduction(g) Data,NSW,35–54 years,Female,0
+14,Kidnapping/abduction(g) Data,NSW,35–54 years,Male,1
+214,Kidnapping/abduction(g) Data,NSW,55 years and over,Female,0
+353,Kidnapping/abduction(g) Data,NT,20–34 years,Female,0
+149,Kidnapping/abduction(g) Data,NT,20–34 years,Male,0
+362,Kidnapping/abduction(g) Data,NT,35–54 years,Female,0
+158,Kidnapping/abduction(g) Data,NT,35–54 years,Male,0
+370,Kidnapping/abduction(g) Data,NT,55 years and over,Female,0
+249,Kidnapping/abduction(g) Data,QLD,20–34 years,Female,0
+53,Kidnapping/abduction(g) Data,QLD,20–34 years,Male,0
+258,Kidnapping/abduction(g) Data,QLD,35–54 years,Female,0
+62,Kidnapping/abduction(g) Data,QLD,35–54 years,Male,0
+266,Kidnapping/abduction(g) Data,QLD,55 years and over,Female,0
+275,Kidnapping/abduction(g) Data,SA,20–34 years,Female,1
+77,Kidnapping/abduction(g) Data,SA,20–34 years,Male,1
+284,Kidnapping/abduction(g) Data,SA,35–54 years,Female,1
+86,Kidnapping/abduction(g) Data,SA,35–54 years,Male,1
+292,Kidnapping/abduction(g) Data,SA,55 years and over,Female,0
+327,Kidnapping/abduction(g) Data,TAS,20–34 years,Female,0
+125,Kidnapping/abduction(g) Data,TAS,20–34 years,Male,0
+336,Kidnapping/abduction(g) Data,TAS,35–54 years,Female,0
+134,Kidnapping/abduction(g) Data,TAS,35–54 years,Male,0
+344,Kidnapping/abduction(g) Data,TAS,55 years and over,Female,0
+223,Kidnapping/abduction(g) Data,VIC,20–34 years,Female,1
+29,Kidnapping/abduction(g) Data,VIC,20–34 years,Male,1
+232,Kidnapping/abduction(g) Data,VIC,35–54 years,Female,1
+38,Kidnapping/abduction(g) Data,VIC,35–54 years,Male,0
+240,Kidnapping/abduction(g) Data,VIC,55 years and over,Female,0
+301,Kidnapping/abduction(g) Data,WA,20–34 years,Female,0
+101,Kidnapping/abduction(g) Data,WA,20–34 years,Male,0
+310,Kidnapping/abduction(g) Data,WA,35–54 years,Female,0
+110,Kidnapping/abduction(g) Data,WA,35–54 years,Male,0
+318,Kidnapping/abduction(g) Data,WA,55 years and over,Female,0
+541,Robbery,ACT,0-19 years,Female,0
+542,Robbery,ACT,0-19 years,Female,0
+543,Robbery,ACT,0-19 years,Female,0
+469,Robbery,ACT,0-19 years,Male,0
+470,Robbery,ACT,0-19 years,Male,0
+471,Robbery,ACT,0-19 years,Male,1
+380,Robbery,ACT,20–34 years,Female,0
+381,Robbery,ACT,20–34 years,Female,0
+174,Robbery,ACT,20–34 years,Male,1
+175,Robbery,ACT,20–34 years,Male,1
+389,Robbery,ACT,35–54 years,Female,0
+390,Robbery,ACT,35–54 years,Female,0
+183,Robbery,ACT,35–54 years,Male,1
+184,Robbery,ACT,35–54 years,Male,1
+397,Robbery,ACT,55 years and over,Female,0
+398,Robbery,ACT,55 years and over,Female,0
+190,Robbery,ACT,55 years and over,Male,0
+478,Robbery,NSW,0-19 years,Female,0
+479,Robbery,NSW,0-19 years,Female,0
+480,Robbery,NSW,0-19 years,Female,0
+406,Robbery,NSW,0-19 years,Male,0
+407,Robbery,NSW,0-19 years,Male,0
+408,Robbery,NSW,0-19 years,Male,1
+198,Robbery,NSW,20–34 years,Female,0
+199,Robbery,NSW,20–34 years,Female,0
+6,Robbery,NSW,20–34 years,Male,1
+7,Robbery,NSW,20–34 years,Male,1
+207,Robbery,NSW,35–54 years,Female,0
+208,Robbery,NSW,35–54 years,Female,0
+16,Robbery,NSW,35–54 years,Male,0
+15,Robbery,NSW,35–54 years,Male,1
+215,Robbery,NSW,55 years and over,Female,0
+216,Robbery,NSW,55 years and over,Female,0
+22,Robbery,NSW,55 years and over,Male,0
+532,Robbery,NT,0-19 years,Female,0
+533,Robbery,NT,0-19 years,Female,0
+534,Robbery,NT,0-19 years,Female,1
+460,Robbery,NT,0-19 years,Male,0
+462,Robbery,NT,0-19 years,Male,0
+461,Robbery,NT,0-19 years,Male,1
+354,Robbery,NT,20–34 years,Female,0
+355,Robbery,NT,20–34 years,Female,1
+150,Robbery,NT,20–34 years,Male,1
+151,Robbery,NT,20–34 years,Male,1
+364,Robbery,NT,35–54 years,Female,0
+363,Robbery,NT,35–54 years,Female,1
+159,Robbery,NT,35–54 years,Male,1
+160,Robbery,NT,35–54 years,Male,1
+371,Robbery,NT,55 years and over,Female,1
+372,Robbery,NT,55 years and over,Female,1
+166,Robbery,NT,55 years and over,Male,0
+496,Robbery,QLD,0-19 years,Female,0
+497,Robbery,QLD,0-19 years,Female,0
+498,Robbery,QLD,0-19 years,Female,0
+424,Robbery,QLD,0-19 years,Male,0
+425,Robbery,QLD,0-19 years,Male,1
+426,Robbery,QLD,0-19 years,Male,1
+250,Robbery,QLD,20–34 years,Female,0
+251,Robbery,QLD,20–34 years,Female,1
+54,Robbery,QLD,20–34 years,Male,1
+55,Robbery,QLD,20–34 years,Male,1
+259,Robbery,QLD,35–54 years,Female,0
+260,Robbery,QLD,35–54 years,Female,0
+63,Robbery,QLD,35–54 years,Male,1
+64,Robbery,QLD,35–54 years,Male,1
+267,Robbery,QLD,55 years and over,Female,0
+268,Robbery,QLD,55 years and over,Female,0
+70,Robbery,QLD,55 years and over,Male,0
+505,Robbery,SA,0-19 years,Female,0
+506,Robbery,SA,0-19 years,Female,0
+507,Robbery,SA,0-19 years,Female,0
+433,Robbery,SA,0-19 years,Male,0
+434,Robbery,SA,0-19 years,Male,0
+435,Robbery,SA,0-19 years,Male,1
+276,Robbery,SA,20–34 years,Female,0
+277,Robbery,SA,20–34 years,Female,0
+78,Robbery,SA,20–34 years,Male,1
+79,Robbery,SA,20–34 years,Male,1
+285,Robbery,SA,35–54 years,Female,0
+286,Robbery,SA,35–54 years,Female,0
+88,Robbery,SA,35–54 years,Male,0
+87,Robbery,SA,35–54 years,Male,1
+293,Robbery,SA,55 years and over,Female,0
+294,Robbery,SA,55 years and over,Female,0
+94,Robbery,SA,55 years and over,Male,0
+523,Robbery,TAS,0-19 years,Female,0
+524,Robbery,TAS,0-19 years,Female,0
+525,Robbery,TAS,0-19 years,Female,0
+451,Robbery,TAS,0-19 years,Male,0
+452,Robbery,TAS,0-19 years,Male,0
+453,Robbery,TAS,0-19 years,Male,0
+328,Robbery,TAS,20–34 years,Female,0
+329,Robbery,TAS,20–34 years,Female,0
+126,Robbery,TAS,20–34 years,Male,0
+127,Robbery,TAS,20–34 years,Male,1
+337,Robbery,TAS,35–54 years,Female,0
+338,Robbery,TAS,35–54 years,Female,0
+135,Robbery,TAS,35–54 years,Male,0
+136,Robbery,TAS,35–54 years,Male,1
+345,Robbery,TAS,55 years and over,Female,0
+346,Robbery,TAS,55 years and over,Female,0
+142,Robbery,TAS,55 years and over,Male,0
+487,Robbery,VIC,0-19 years,Female,0
+488,Robbery,VIC,0-19 years,Female,0
+489,Robbery,VIC,0-19 years,Female,0
+415,Robbery,VIC,0-19 years,Male,0
+416,Robbery,VIC,0-19 years,Male,1
+417,Robbery,VIC,0-19 years,Male,1
+224,Robbery,VIC,20–34 years,Female,0
+225,Robbery,VIC,20–34 years,Female,0
+30,Robbery,VIC,20–34 years,Male,1
+31,Robbery,VIC,20–34 years,Male,1
+233,Robbery,VIC,35–54 years,Female,0
+234,Robbery,VIC,35–54 years,Female,0
+40,Robbery,VIC,35–54 years,Male,0
+39,Robbery,VIC,35–54 years,Male,1
+241,Robbery,VIC,55 years and over,Female,0
+242,Robbery,VIC,55 years and over,Female,0
+46,Robbery,VIC,55 years and over,Male,0
+514,Robbery,WA,0-19 years,Female,0
+515,Robbery,WA,0-19 years,Female,0
+516,Robbery,WA,0-19 years,Female,0
+442,Robbery,WA,0-19 years,Male,0
+443,Robbery,WA,0-19 years,Male,1
+444,Robbery,WA,0-19 years,Male,1
+302,Robbery,WA,20–34 years,Female,0
+303,Robbery,WA,20–34 years,Female,1
+102,Robbery,WA,20–34 years,Male,1
+103,Robbery,WA,20–34 years,Male,1
+311,Robbery,WA,35–54 years,Female,0
+312,Robbery,WA,35–54 years,Female,0
+111,Robbery,WA,35–54 years,Male,1
+112,Robbery,WA,35–54 years,Male,1
+319,Robbery,WA,55 years and over,Female,0
+320,Robbery,WA,55 years and over,Female,0
+118,Robbery,WA,55 years and over,Male,0
+538,Sexual Assault,ACT,0-19 years,Female,0
+539,Sexual Assault,ACT,0-19 years,Female,1
+540,Sexual Assault,ACT,0-19 years,Female,1
+466,Sexual Assault,ACT,0-19 years,Male,0
+467,Sexual Assault,ACT,0-19 years,Male,0
+468,Sexual Assault,ACT,0-19 years,Male,0
+377,Sexual Assault,ACT,20–34 years,Female,1
+378,Sexual Assault,ACT,20–34 years,Female,1
+171,Sexual Assault,ACT,20–34 years,Male,0
+172,Sexual Assault,ACT,20–34 years,Male,0
+386,Sexual Assault,ACT,35–54 years,Female,0
+387,Sexual Assault,ACT,35–54 years,Female,0
+180,Sexual Assault,ACT,35–54 years,Male,0
+181,Sexual Assault,ACT,35–54 years,Male,0
+394,Sexual Assault,ACT,55 years and over,Female,0
+395,Sexual Assault,ACT,55 years and over,Female,0
+189,Sexual Assault,ACT,55 years and over,Male,0
+475,Sexual Assault,NSW,0-19 years,Female,1
+476,Sexual Assault,NSW,0-19 years,Female,1
+477,Sexual Assault,NSW,0-19 years,Female,1
+405,Sexual Assault,NSW,0-19 years,Male,0
+403,Sexual Assault,NSW,0-19 years,Male,1
+404,Sexual Assault,NSW,0-19 years,Male,1
+195,Sexual Assault,NSW,20–34 years,Female,1
+196,Sexual Assault,NSW,20–34 years,Female,1
+3,Sexual Assault,NSW,20–34 years,Male,0
+4,Sexual Assault,NSW,20–34 years,Male,0
+205,Sexual Assault,NSW,35–54 years,Female,0
+204,Sexual Assault,NSW,35–54 years,Female,1
+12,Sexual Assault,NSW,35–54 years,Male,0
+13,Sexual Assault,NSW,35–54 years,Male,0
+212,Sexual Assault,NSW,55 years and over,Female,0
+213,Sexual Assault,NSW,55 years and over,Female,0
+21,Sexual Assault,NSW,55 years and over,Male,0
+529,Sexual Assault,NT,0-19 years,Female,0
+530,Sexual Assault,NT,0-19 years,Female,1
+531,Sexual Assault,NT,0-19 years,Female,1
+457,Sexual Assault,NT,0-19 years,Male,0
+458,Sexual Assault,NT,0-19 years,Male,0
+459,Sexual Assault,NT,0-19 years,Male,0
+351,Sexual Assault,NT,20–34 years,Female,1
+352,Sexual Assault,NT,20–34 years,Female,1
+147,Sexual Assault,NT,20–34 years,Male,0
+148,Sexual Assault,NT,20–34 years,Male,0
+360,Sexual Assault,NT,35–54 years,Female,1
+361,Sexual Assault,NT,35–54 years,Female,1
+156,Sexual Assault,NT,35–54 years,Male,0
+157,Sexual Assault,NT,35–54 years,Male,0
+368,Sexual Assault,NT,55 years and over,Female,0
+369,Sexual Assault,NT,55 years and over,Female,0
+165,Sexual Assault,NT,55 years and over,Male,0
+493,Sexual Assault,QLD,0-19 years,Female,1
+494,Sexual Assault,QLD,0-19 years,Female,1
+495,Sexual Assault,QLD,0-19 years,Female,1
+421,Sexual Assault,QLD,0-19 years,Male,0
+422,Sexual Assault,QLD,0-19 years,Male,0
+423,Sexual Assault,QLD,0-19 years,Male,0
+247,Sexual Assault,QLD,20–34 years,Female,1
+248,Sexual Assault,QLD,20–34 years,Female,1
+51,Sexual Assault,QLD,20–34 years,Male,0
+52,Sexual Assault,QLD,20–34 years,Male,0
+257,Sexual Assault,QLD,35–54 years,Female,0
+256,Sexual Assault,QLD,35–54 years,Female,1
+60,Sexual Assault,QLD,35–54 years,Male,0
+61,Sexual Assault,QLD,35–54 years,Male,0
+264,Sexual Assault,QLD,55 years and over,Female,0
+265,Sexual Assault,QLD,55 years and over,Female,0
+69,Sexual Assault,QLD,55 years and over,Male,0
+502,Sexual Assault,SA,0-19 years,Female,0
+503,Sexual Assault,SA,0-19 years,Female,1
+504,Sexual Assault,SA,0-19 years,Female,1
+430,Sexual Assault,SA,0-19 years,Male,0
+431,Sexual Assault,SA,0-19 years,Male,0
+432,Sexual Assault,SA,0-19 years,Male,0
+273,Sexual Assault,SA,20–34 years,Female,1
+274,Sexual Assault,SA,20–34 years,Female,1
+75,Sexual Assault,SA,20–34 years,Male,0
+76,Sexual Assault,SA,20–34 years,Male,0
+283,Sexual Assault,SA,35–54 years,Female,0
+282,Sexual Assault,SA,35–54 years,Female,1
+84,Sexual Assault,SA,35–54 years,Male,0
+85,Sexual Assault,SA,35–54 years,Male,0
+290,Sexual Assault,SA,55 years and over,Female,0
+291,Sexual Assault,SA,55 years and over,Female,0
+93,Sexual Assault,SA,55 years and over,Male,0
+520,Sexual Assault,TAS,0-19 years,Female,0
+521,Sexual Assault,TAS,0-19 years,Female,1
+522,Sexual Assault,TAS,0-19 years,Female,1
+448,Sexual Assault,TAS,0-19 years,Male,0
+449,Sexual Assault,TAS,0-19 years,Male,0
+450,Sexual Assault,TAS,0-19 years,Male,0
+325,Sexual Assault,TAS,20–34 years,Female,1
+326,Sexual Assault,TAS,20–34 years,Female,1
+123,Sexual Assault,TAS,20–34 years,Male,0
+124,Sexual Assault,TAS,20–34 years,Male,0
+334,Sexual Assault,TAS,35–54 years,Female,0
+335,Sexual Assault,TAS,35–54 years,Female,0
+132,Sexual Assault,TAS,35–54 years,Male,0
+133,Sexual Assault,TAS,35–54 years,Male,0
+342,Sexual Assault,TAS,55 years and over,Female,0
+343,Sexual Assault,TAS,55 years and over,Female,0
+141,Sexual Assault,TAS,55 years and over,Male,0
+484,Sexual Assault,VIC,0-19 years,Female,0
+485,Sexual Assault,VIC,0-19 years,Female,1
+486,Sexual Assault,VIC,0-19 years,Female,1
+412,Sexual Assault,VIC,0-19 years,Male,0
+413,Sexual Assault,VIC,0-19 years,Male,0
+414,Sexual Assault,VIC,0-19 years,Male,0
+221,Sexual Assault,VIC,20–34 years,Female,1
+222,Sexual Assault,VIC,20–34 years,Female,1
+27,Sexual Assault,VIC,20–34 years,Male,0
+28,Sexual Assault,VIC,20–34 years,Male,0
+231,Sexual Assault,VIC,35–54 years,Female,0
+230,Sexual Assault,VIC,35–54 years,Female,1
+36,Sexual Assault,VIC,35–54 years,Male,0
+37,Sexual Assault,VIC,35–54 years,Male,0
+238,Sexual Assault,VIC,55 years and over,Female,0
+239,Sexual Assault,VIC,55 years and over,Female,0
+45,Sexual Assault,VIC,55 years and over,Male,0
+511,Sexual Assault,WA,0-19 years,Female,1
+512,Sexual Assault,WA,0-19 years,Female,1
+513,Sexual Assault,WA,0-19 years,Female,1
+439,Sexual Assault,WA,0-19 years,Male,0
+440,Sexual Assault,WA,0-19 years,Male,0
+441,Sexual Assault,WA,0-19 years,Male,0
+299,Sexual Assault,WA,20–34 years,Female,1
+300,Sexual Assault,WA,20–34 years,Female,1
+99,Sexual Assault,WA,20–34 years,Male,0
+100,Sexual Assault,WA,20–34 years,Male,0
+309,Sexual Assault,WA,35–54 years,Female,0
+308,Sexual Assault,WA,35–54 years,Female,1
+108,Sexual Assault,WA,35–54 years,Male,0
+109,Sexual Assault,WA,35–54 years,Male,0
+316,Sexual Assault,WA,55 years and over,Female,0
+317,Sexual Assault,WA,55 years and over,Female,0
+117,Sexual Assault,WA,55 years and over,Male,0

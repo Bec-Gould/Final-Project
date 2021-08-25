@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Victim of Crime</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+        <link href = "../static/css/style.css" rel = "stylesheet">
+    </head>
+   
+    <body>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="home">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="learn_more">Learn more</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="visualisation">Visualisation</a>
+            </li>
+          </ul>
+          <a class="navbar-brand" href="/">
+            <img src="../static/images/map_australia.jpg" width="40" height="40" class="d-inline-block align-top" alt="map of australia in gold">
+            <strong>Victim of Crime Analysis in Australia</strong> 
+          </a>
+        </div>
+      </nav>
+
+      <div class="jumbotron rounded-0">
+        <div class="container1">
+          <form>
+          <div class="form-group">
+            <label for="formGroupExampleInput">Age</label>
+            <select name="age" class="form-control" id="age">
+              {% for item in data.age -%}
+              <option value="{{item.id}}">{{item.text}}</option>
+               {%- endfor %}
+               <!-- <input type="text" class="form-control" id="age" placeholder="Select your age group"> -->
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="formGroupExampleInput2">Gender</label>
+            <!-- <input type="text" class="form-control" id="gender" placeholder="Select your gender"> -->
+            <select name="gender" class="form-control" id="gender">
+              {% for item in data.gender -%}
+              <option value="{{item.id}}">{{item.text}}</option>
+               {%- endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="formGroupExampleInput">State/Territory</label>
+            <!-- <input type="text" class="form-control" id="state" placeholder="Select a state of your interest"> -->
+            <select name="state" class="form-control" id="state">
+              {% for item in data.state -%}
+              <option value="{{item.id}}">{{item.text}}</option>
+               {%- endfor %}
+            </select>  
+          </div>
+          <div class="form-group">
+            <label for="formGroupExampleInput2">Offence</label>
+            <!-- <input type="text" class="form-control" id="offence" placeholder="Select an offence of your interest"> -->
+            <select name="offence" class="form-control" id="offence">
+              {% for item in data.offence -%}
+              <option value="{{item.id}}">{{item.text}}</option>
+               {%- endfor %}
+            </select>
+          </div>
+          <br>
+          <button type="button" class="btn btn-danger" id="btn-predict">Predict</button>
+          <!-- <button type="submit" class="btn btn-danger">Try again</button> -->
+        </form>
+        <br>
+        <br>
+        <br>
+        <h1 id="size">
+          Our prediction: 
+        </h1>
+        
+        <h1 id="prediction-output"></h1>
+
+       </div>
+      </div>
+
+    
+
+
+
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="../static/js/predict.js"></script>
+   </body>
+</html>

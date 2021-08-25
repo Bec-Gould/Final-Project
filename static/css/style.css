@@ -1,0 +1,51 @@
+.navbar {
+    background: linear-gradient(to right, #250609, #4b1928);
+    color: #310709;
+}
+
+.navbar-brand {
+    font-family:unset;
+}
+
+.btn-danger:hover {
+    background-color: #4b1928;
+    border-color: #250609;
+}
+
+.jumbotron {
+    background-color:#501124;
+    color: white;
+}
+
+.container-bg {
+    background: #2e0408;
+}
+
+.container1 {
+    margin-top: 0%;
+    margin-left: 30%;
+    margin-right: 30%;
+    scroll-margin-bottom: 30%;
+}
+
+.container2 {
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid #250609; */
+    padding: 10px;
+    text-align: center;
+}
+
+.img-thumbnail {
+    float:left;
+    margin-right: 1.5%;
+}
+
+#covid {
+    margin-left: 5%;
+}
+
+#p1 {
+    text-align: justify;
+    font-size: 14px;
+}
