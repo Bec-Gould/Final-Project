@@ -29,11 +29,11 @@ d3.select("#btn-predict").on("click", ()=>{
         console.log(response.prediction); // log out the result
         // if likely to be a victim
         if(response.prediction == 1){
-            prediction_output.text("It is likely that you will be a victim of this crime."); 
+            prediction_output.text("BE AWARE - You are LIKELY to be a VICTIM!"); 
         
         // if not likely to be a victim
         } else { 
-            prediction_output.text("It is unlikely that you will be a victim of this crime.");
+            prediction_output.text("Hooray - You are NOT LIKELY to be a VICTIM!");
         }
     });
 })
