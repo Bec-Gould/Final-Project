@@ -3,15 +3,11 @@ Final Project - Machine Learning
 
 ## Introduction
 
-The aim of this project was to investigate data from the National Notifiable Disease Surveillance System (NNDSS) and establish 
-what trends could be observed.
+Our inspiration for this project was based on the fact that one of our team members had a break in at there house during the course one night after class. 
 
-Data between 2015 and 2020 on infection rates per 100,000 people was extracted from the website, transformed into a comparable dataset and loaded into an SQLite database.
+We discussed the crime and what the likelihood was of the crime being solved. We then looked at data from ABS and wanted to look into which states were the safest and whoch were high in crime rates. 
 
-An SQLAclhemy/Flask API was created to allow data to be used in a D3.js web application that was launched on Heroku.
-
-The application consists of an interactive dashboard of four visualisations depicting comparisons of infection rates across disease groups, states and territories and years.
-
+Our model can be used to predict the likelihood of becoming a victim based on the inputs: age, gender, state/territory and offence. Our model can be used if you are planning to move interstate or just to look into the crime rates of your current state and how many cases actually get finalised. 
 
 
 ## Structure
@@ -69,10 +65,8 @@ The page was created using:
 
 1. Which crime is most predominant in all states? 
 2. Which is the safest state in Australia? 
-3. How are the crime rates progressing in each state over time?
-4. Does gender and/or age play a role in the likelyhood of becoming a victim? 
-5. How could our solution be used as a service? 
-
+3. Does gender and/or age play a role in the likelyhood of becoming a victim? 
+4. How could our solution be used as a service? 
 
 ## Datasets 
 
@@ -89,12 +83,11 @@ Assult is the most predominant crime in all states with a total 127,262 crimes f
 
 ### Question 2: Which is the safest state in Australia? 
 
-Tasmania is the safest place to be in Australia! 
+Tasmania is the safest place to be in Australia with NSW being the worst. NSW has the highest amount of crimes in the country. 
 
 ### Question 3: Does gender and/or age play a role in the likelyhood of becoming a victim? 
 
 Using visualisations in Tableau, it is very clear that age and gender play a key role in determining the likelihood of becoming a victim. 
-
 
 ### Question 4: How could our solution be used as a service?
 
