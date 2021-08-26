@@ -85,37 +85,30 @@ The page was created using:
 
 ### Question 1: Which crime is most predominant in all states? 
 
-
-Put answer here
-
-
-
+Assult is the most predominant crime in all states with a total 127,262 crimes for 2020.
 
 ### Question 2: Which is the safest state in Australia? 
 
+Tasmania is the safest place to be in Australia! 
 
-Put answer here
+### Question 3: Does gender and/or age play a role in the likelyhood of becoming a victim? 
 
-### Question 3: How are the crime rates progressing in each state over time? 
-
-
-Put answer here
+Using visualisations in Tableau, it is very clear that age and gender play a key role in determining the likelihood of becoming a victim. 
 
 
-### Question 4: Does gender and/or age play a role in the likelyhood of becoming a victim? 
+### Question 4: How could our solution be used as a service?
 
-
-Put answer here
-
-
-### Question 5: How could our solution be used as a service?
-
-
-Put answer here
+Our solution can be used if you are planning to move interstate and would like to know which crimes are more predominant in each state. 
 
 ## Summary
 
-Put answer here
+- NSW is the crime capital of Australia with the highest amount of crimes in the country.
+- NSW ranks the highest in the assault cases followed by WA.
+- NSW and Victoria have twice as many robberies compared to WA.
+- Females are most likely to be victims of Assault and Sexual Assault in comparison to Males while Males are most vulnerable to Robberies.
+- People between the ages 20-34 and 35-54 are vulnerable to assaults and ages 0-19(our youngest population)  are at risk of Sexual assaults.
+- 49% of all crime has been reported in the Residence whilst 32% is in other locations and only 19% has been reported in the communal areas
+- WA has the highest proportion of crimes finalised and closed at 35%.
 
 
 ## Contributors
